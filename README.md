@@ -1,8 +1,7 @@
 # Priscila Sepulveda - Data Analyst and Scientist
-Welcome! I'm Priscila Sepulveda, a nanotechnology engineer from Tecnologico de Monterrey, with a passion for leveraging the vast amounts of data available today to drive informed decision-making in science and beyond.
+Welcome! I'm Priscila Sepulveda, a nanotechnology engineer from Tecnologico de Monterrey, with a passion for leveraging the vast amounts of data available in today's world to identify trends, forecast predictions to make science supported decisions.
 
 ## About Me
-👀 I’m interested in leveraging __data analysis__ and __machine learning__ to make __science-supported decisions.__
 
 🌱 I’m proficient in Python for __data cleaning, machine learning, and dashboard creation.__ I also have experience using  __SQL__ for and __Cypher__ for Neo4J graph database. 
 
