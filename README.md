@@ -1,37 +1,25 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Priscila Sepulveda - Data Analyst and Scientist</title>
-</head>
-<body>
-    <h1>Priscila Sepulveda - Data Analyst and Scientist</h1>
-    <p>Welcome to my GitHub repository! I'm Priscila Sepulveda, a nanotechnology engineer from Tecnologico de Monterrey, passionate about leveraging data for informed decision-making in science and beyond.</p>
-    
-    <h2>About Me</h2>
-    <ul>
-        <li>👋 Hi, I'm Priscila Sepulveda, a nanotechnology engineer.</li>
-        <li>👀 I'm proficient in Python for data analysis, machine learning, and visualization. I also use SQL and Cypher for database queries.</li>
-        <li>☁️ Currently, I'm learning about cloud services, focusing on AWS and Snowflake certifications.</li>
-    </ul>
-    
-    <h2>Projects</h2>
-    <ul>
-        <li>💼 Previously, I collaborated on a team focused on drug discovery, utilizing machine learning and chemical databases like PubChem.</li>
-        <li>🛠️ Explore my projects showcasing data analysis and visualization skills.</li>
-    </ul>
-    
-    <h2>Certifications</h2>
-    <ul>
-        <li>🎓 Pursuing certifications in Neo4J and Snowflake. Completed Google's Data Analytics and Agile Development Specialization.</li>
-    </ul>
-    
-    <h2>Contact Information</h2>
-    <ul>
-        <li>📫 Reach me at priscilaspu@gmail.com or connect on LinkedIn: <a href="https://www.linkedin.com/in/prlaa/">prlaa</a>.</li>
-    </ul>
+# Priscila Sepulveda - Data Analyst and Scientist
+Welcome! I'm Priscila Sepulveda, a nanotechnology engineer from Tecnologico de Monterrey, with a passion for leveraging the vast amounts of data available today to drive informed decision-making in science and beyond.
 
-    <p>Feel free to reach out for inquiries or collaboration opportunities. Thank you for visiting my GitHub repository!</p>
-</body>
-</html>
+## About Me
+👀 I’m interested in leveraging __data analysis__ and __machine learning__ to make __science-supported decisions.__
+🌱 I’m proficient in Python for __data cleaning, machine learning, and dashboard creation.__ I also have experience using  __SQL__ for and __Cypher__ for Neo4J graph database. 
+💼 Previously, I worked in a team focused on drug discovery, utilizing machine learning and chemical databases such as PubChem and Coconut.
+☁️ Currently, I'm learning about cloud services as they are an elemental part of data management. Specifically, I'm focusing on obtaining certifications in __AWS and Snowflake.__
+
+## Skills and Tools
+__Programming:__ Proficient in Python for data cleaning, machine learning, and dashboard creation.
+__Database Query Languages:__ Experienced in SQL for relational databases and Cypher for Neo4J graph databases.
+__Data Visualization:__ Skilled in creating visually appealing and insightful graphs and dashboards.
+__Neo4J:__ Experienced in visualizing and querying graph data using Neo4J's Bloom.
+
+## Projects
+One of my previous projects involved collaborating with a team focused on drug discovery. We utilized __machine learning techniques and chemical databases__ such as PubChem and Coconut to __identify potential drug candidates.__
+You can explore more of my personal projects in this repository, where I showcase my skills in data analysis and visualization.
+
+## Certifications
+🎓 __I'm currently working towards obtaining certifications in Neo4J and Snowflake.__ I've already completed __Google's Data Analytics and Agile Development Specializations.__ Continuous learning is important to me, and I'm always seeking to stay updated on the latest tools and techniques in the field.
+
+## Contact Information
+📫 You can reach me via email at __priscilaspu@gmail.com__ or connect with me on __LinkedIn: prlaa.__
+Feel free to reach out to me for inquiries, collaboration opportunities, or to discuss my projects further. 
