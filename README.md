@@ -3,6 +3,7 @@ Welcome! I'm Priscila Sepulveda, a nanotechnology engineer from Tecnologico de M
 
 ## About Me
 👀 I’m interested in leveraging __data analysis__ and __machine learning__ to make __science-supported decisions.__
+
 🌱 I’m proficient in Python for __data cleaning, machine learning, and dashboard creation.__ I also have experience using  __SQL__ for and __Cypher__ for Neo4J graph database. 
 💼 Previously, I worked in a team focused on drug discovery, utilizing machine learning and chemical databases such as PubChem and Coconut.
 ☁️ Currently, I'm learning about cloud services as they are an elemental part of data management. Specifically, I'm focusing on obtaining certifications in __AWS and Snowflake.__
