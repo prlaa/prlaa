@@ -22,5 +22,5 @@ You can explore more of my personal projects in this repository, where I showcas
 🎓 __I'm currently working towards obtaining certifications in Neo4J and Snowflake.__ I've already completed __Google's Data Analytics and Agile Development Specializations.__ Continuous learning is important to me, and I'm always seeking to stay updated on the latest tools and techniques in the field.
 
 ## Contact Information
-📫 You can reach me via email at __priscilaspu@gmail.com__ or connect with me on __LinkedIn: prlaa.__
+📫 You can reach me via email at [priscilaspu@gmail.com](mailto:priscilaspu@gmail.com) or connect with me on __[LinkedIn](https://www.linkedin.com/in/prlaa/)__
 Feel free to reach out to me for inquiries, collaboration opportunities, or to discuss my projects further. 
