@@ -1,8 +1,9 @@
-# Priscila Sepulveda - Data Analyst and Scientist
+# Priscila Sepulveda - Problem Solver
 Welcome! I'm Priscila Sepulveda, Here you will find some proyects that showcase my passion for solving problems through programming.
 ## About Me
 
 ☁️ Currently, I'm working towards obtaining AWS S3, Snowflake, and Neo4J certifications.
+Also currently looking to do some Supply Chain and Fraud detection proyects!
 
 You can explore more of my personal projects in this repository.
 
